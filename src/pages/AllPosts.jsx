@@ -30,5 +30,3 @@ return (
 export default AllPosts
 
 
-git config --global user.name "YourGitHubUsername"
-git config --global user.email "YourGitHubEmail"
